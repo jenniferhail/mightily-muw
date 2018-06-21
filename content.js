@@ -1,1 +1,1 @@
-console.log("snixx")
+console.log("wmltg")
