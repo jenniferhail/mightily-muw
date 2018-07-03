@@ -4,5 +4,4 @@
         echo "tvlff";
         echo "kppbp";
         echo "gsgdm";
-        echo "qrqcq";
 ?>
