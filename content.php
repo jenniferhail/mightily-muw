@@ -8,5 +8,4 @@
         echo "jmitl";
         echo "apgdy";
         echo "hldgu";
-        echo "kugtm";
 ?>
