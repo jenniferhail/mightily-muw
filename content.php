@@ -7,5 +7,4 @@
         echo "rpdkr";
         echo "jmitl";
         echo "apgdy";
-        echo "vxfuo";
 ?>
