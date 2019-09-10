@@ -6,5 +6,4 @@
         echo "wbxfo";
         echo "rpdkr";
         echo "jntgk";
-        echo "iunaa";
 ?>
