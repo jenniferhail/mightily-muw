@@ -7,5 +7,4 @@
         echo "rpdkr";
         echo "cjfkv";
         echo "fasue";
-        echo "ewxxi";
 ?>
