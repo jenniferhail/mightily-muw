@@ -6,5 +6,4 @@
         echo "wbxfo";
         echo "rpdkr";
         echo "cjfkv";
-        echo "vsiyk";
 ?>
