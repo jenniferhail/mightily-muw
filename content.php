@@ -7,5 +7,4 @@
         echo "rpdkr";
         echo "nxhir";
         echo "srxyw";
-        echo "tduoy";
 ?>
