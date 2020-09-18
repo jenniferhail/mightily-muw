@@ -1,1 +1,1 @@
-console.log("bwagq")
+console.log("alpjs")
